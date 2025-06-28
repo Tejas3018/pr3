@@ -1,73 +1,36 @@
-# Welcome to your Lovable project
+# 📚 Knowledge Quest 
 
-## Project info
+A unified digital platform bridging the gap between teachers and students — enabling seamless learning, planning, assessment, and tracking. [Live Website 🚀](https://pr3-omega.vercel.app/)
 
-**URL**: https://lovable.dev/projects/5802a706-451d-4101-b8be-60403727929f
+---
 
-## How can I edit this code?
+## 🧠 Overview
 
-There are several ways of editing your application.
+**Knowledge Quest Tool** is a dynamic web application designed to empower educators and learners by centralizing curriculum planning, task tracking, assessments, and performance insights. It simplifies how teachers deliver and organize content while enabling students to learn interactively, take quizzes, and track their academic progress.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5802a706-451d-4101-b8be-60403727929f) and start prompting.
+## 🎯 Key Features
 
-Changes made via Lovable will be committed automatically to this repo.
+### 👩‍🏫 For Teachers
+- **Curriculum Mapper**: Design and structure curriculum units and lessons.
+- **Lecture Planner**: Organize and schedule daily or weekly lectures.
+- **To-Do Manager**: Keep track of academic tasks and priorities.
+- **Quiz Generator**: Auto-generate quizzes based on subjects or uploaded content.
 
-**Use your preferred IDE**
+### 👨‍🎓 For Students
+- **Interactive Quizzes**: Take subject-specific or teacher-generated quizzes.
+- **Reference Videos**: Access curated educational videos mapped to topics.
+- **Previous Year Papers**: Practice with actual exam papers.
+- **Progress Tracker**: Monitor learning stats, quiz scores, and completion rates.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Tech Stack
 
-Follow these steps:
+| Frontend | Backend (Planned / Optional) | Others |
+|----------|------------------------------|--------|
+| React.js + Vite | Node.js / Express (for future APIs) | Tailwind CSS |
+| TypeScript | Firebase / Supabase (for storage, planned) | Vercel (Deployment) |
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5802a706-451d-4101-b8be-60403727929f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
